@@ -2,8 +2,11 @@ Hola
 =========================================
 Soy Sasuke_thelast
 =========================================
-Estoy en proceso de aprender a ser modder
+estoy aprendiendo Javascript
+Proyectos
+-Minecraft discord bot
+  -Version Alpha 0.3.1
 =========================================
-Y ya
+tambien edito videos y soy inversor de proyectos pero eso es otra cosa
 =========================================
-xd
+Este soy yo!!!
